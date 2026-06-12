@@ -1,6 +1,6 @@
 # DSA Practice in Python
 
-## Goal
+## Goal 
 Solve 100+ DSA Problems
 
 ## Progress

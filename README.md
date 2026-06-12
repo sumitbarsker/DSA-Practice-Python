@@ -1,11 +1,12 @@
 # DSA Practice in Python
 
-#  Goal
+## Goal
 Solve 100+ DSA Problems
 
-# Progress
-- [ ] Two Sum
+## Progress
+- [x] Two Sum
+- [x] Contains Duplicate
 - [ ] Valid Anagram
 - [ ] Maximum Subarray
 
-Total Solved: 0
+Total Solved: 2

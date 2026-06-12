@@ -9,4 +9,4 @@ Solve 100+ DSA Problems
 - [ ] Valid Anagram
 - [ ] Maximum Subarray
 
-Total Solved: 2
+Total Solved: 2 

@@ -7,6 +7,6 @@ Solve 100+ DSA Problems
 - [x] Two Sum
 - [x] Contains Duplicate
 - [x] Valid Anagram
-- [ ] Maximum Subarray
+- [x] Maximum Subarray
 
-Total Solved: 3
+Total Solved: 4

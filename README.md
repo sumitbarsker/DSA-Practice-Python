@@ -8,5 +8,6 @@ Solve 100+ DSA Problems
 - [x] Contains Duplicate
 - [x] Valid Anagram
 - [x] Maximum Subarray
+- [x] Valid Palindrome
 
-Total Solved: 4
+Total Solved: 5

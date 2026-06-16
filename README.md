@@ -9,5 +9,6 @@ Solve 100+ DSA Problems
 - [x] Valid Anagram
 - [x] Maximum Subarray
 - [x] Valid Palindrome
+- [x] Longest Common Prefix
 
-Total Solved: 5
+Total Solved: 6

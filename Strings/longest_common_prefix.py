@@ -3,7 +3,7 @@
 # Difficulty: Easy
 
 class Solution:
-    def longestCommonPrefix(self, strs):
+    def longestCommonPrefix(self, strs): 
         if not strs:
             return ""
 

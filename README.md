@@ -10,5 +10,6 @@ Solve 100+ DSA Problems
 - [x] Maximum Subarray
 - [x] Valid Palindrome
 - [x] Longest Common Prefix
+- [x] Best Time to Buy and Sell Stock
 
-Total Solved: 6
+Total Solved: 7

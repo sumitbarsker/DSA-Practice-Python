@@ -11,5 +11,6 @@ Solve 100+ DSA Problems
 - [x] Valid Palindrome
 - [x] Longest Common Prefix
 - [x] Best Time to Buy and Sell Stock
+- [x] Reverse Linked List
 
-Total Solved: 7
+Total Solved: 8

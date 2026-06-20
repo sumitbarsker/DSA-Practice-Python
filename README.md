@@ -12,5 +12,6 @@ Solve 100+ DSA Problems
 - [x] Longest Common Prefix
 - [x] Best Time to Buy and Sell Stock
 - [x] Reverse Linked List
+- [x] Middle of the Linked List
 
-Total Solved: 8
+Total Solved: 9

@@ -13,5 +13,6 @@ Solve 100+ DSA Problems
 - [x] Best Time to Buy and Sell Stock
 - [x] Reverse Linked List
 - [x] Middle of the Linked List
+- [x] Merge Two Sorted Lists
 
-Total Solved: 9
+Total Solved: 10

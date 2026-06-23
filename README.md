@@ -14,5 +14,6 @@ Solve 100+ DSA Problems
 - [x] Reverse Linked List
 - [x] Middle of the Linked List
 - [x] Merge Two Sorted Lists
+- [x] Valid Parentheses
 
-Total Solved: 10
+Total Solved: 11

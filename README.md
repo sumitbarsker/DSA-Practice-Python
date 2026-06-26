@@ -15,5 +15,6 @@ Solve 100+ DSA Problems
 - [x] Middle of the Linked List
 - [x] Merge Two Sorted Lists
 - [x] Valid Parentheses
+- [x] Min Stack
 
-Total Solved: 11
+Total Solved: 12

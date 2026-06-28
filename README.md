@@ -16,5 +16,6 @@ Solve 100+ DSA Problems
 - [x] Merge Two Sorted Lists
 - [x] Valid Parentheses
 - [x] Min Stack
+- [x] Implement Queue using Stacks
 
-Total Solved: 12
+Total Solved: 13

@@ -17,5 +17,6 @@ Solve 100+ DSA Problems
 - [x] Valid Parentheses
 - [x] Min Stack
 - [x] Implement Queue using Stacks
+- [x] Evaluate Reverse Polish Notation
 
-Total Solved: 13
+Total Solved: 14

@@ -18,5 +18,6 @@ Solve 100+ DSA Problems
 - [x] Min Stack
 - [x] Implement Queue using Stacks
 - [x] Evaluate Reverse Polish Notation
+- [x] Binary Tree Inorder Traversal
 
-Total Solved: 14
+Total Solved: 15

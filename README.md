@@ -19,5 +19,6 @@ Solve 100+ DSA Problems
 - [x] Implement Queue using Stacks
 - [x] Evaluate Reverse Polish Notation
 - [x] Binary Tree Inorder Traversal
+- [x] Maximum Depth of Binary Tree
 
-Total Solved: 15
+Total Solved: 16

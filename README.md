@@ -20,5 +20,6 @@ Solve 100+ DSA Problems
 - [x] Evaluate Reverse Polish Notation
 - [x] Binary Tree Inorder Traversal
 - [x] Maximum Depth of Binary Tree
+- [x] Same Tree
 
-Total Solved: 16
+Total Solved: 17

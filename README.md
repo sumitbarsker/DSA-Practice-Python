@@ -21,5 +21,5 @@ Solve 100+ DSA Problems
 - [x] Binary Tree Inorder Traversal
 - [x] Maximum Depth of Binary Tree
 - [x] Same Tree
-
-Total Solved: 17
+- [x] Invert Binary Tree
+Total Solved: 18

@@ -22,4 +22,5 @@ Solve 100+ DSA Problems
 - [x] Maximum Depth of Binary Tree
 - [x] Same Tree
 - [x] Invert Binary Tree
-Total Solved: 18
+- [x] Diameter of Binary Tree
+Total Solved: 19

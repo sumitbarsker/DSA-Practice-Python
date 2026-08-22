@@ -23,4 +23,6 @@ Solve 100+ DSA Problems
 - [x] Same Tree
 - [x] Invert Binary Tree
 - [x] Diameter of Binary Tree
-Total Solved: 19
+- [x] Balanced Binary Tree
+
+Total Solved: 20

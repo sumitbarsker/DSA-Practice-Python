@@ -24,5 +24,7 @@ Solve 100+ DSA Problems
 - [x] Invert Binary Tree
 - [x] Diameter of Binary Tree
 - [x] Balanced Binary Tree
+- [x] Subtree of Another Tree
 
-Total Solved: 20
+Total Solved: 21
+

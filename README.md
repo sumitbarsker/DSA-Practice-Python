@@ -25,6 +25,7 @@ Solve 100+ DSA Problems
 - [x] Diameter of Binary Tree
 - [x] Balanced Binary Tree
 - [x] Subtree of Another Tree
+- [x] Lowest Common Ancestor of a Binary Search Tree
 
-Total Solved: 21
+Total Solved: 22
 

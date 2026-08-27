@@ -30,6 +30,7 @@ Solve 100+ DSA Problems
 - [x] Binary Search
 - [x] Search Insert Position
 - [x] Fibonacci Number
+- [x] Climbing Stairs
 
-Total Solved: 26
+Total Solved: 27
 

@@ -33,6 +33,7 @@ Solve 100+ DSA Problems
 - [x] Climbing Stairs
 - [x] Subsets
 - [x] Combination Sum
+- [x] Maximum Product Subarray
 
-Total Solved: 29
+Total Solved: 30
 

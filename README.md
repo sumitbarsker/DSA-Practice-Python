@@ -28,6 +28,7 @@ Solve 100+ DSA Problems
 - [x] Lowest Common Ancestor of a Binary Search Tree
 - [x] Symmetric Tree
 - [x] Binary Search
+- [x] Search Insert Position
 
-Total Solved: 24
+Total Solved: 25
 

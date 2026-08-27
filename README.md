@@ -29,6 +29,7 @@ Solve 100+ DSA Problems
 - [x] Symmetric Tree
 - [x] Binary Search
 - [x] Search Insert Position
+- [x] Fibonacci Number
 
-Total Solved: 25
+Total Solved: 26
 

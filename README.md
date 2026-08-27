@@ -27,6 +27,7 @@ Solve 100+ DSA Problems
 - [x] Subtree of Another Tree
 - [x] Lowest Common Ancestor of a Binary Search Tree
 - [x] Symmetric Tree
+- [x] Binary Search
 
-Total Solved: 23
+Total Solved: 24
 

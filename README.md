@@ -26,6 +26,7 @@ Solve 100+ DSA Problems
 - [x] Balanced Binary Tree
 - [x] Subtree of Another Tree
 - [x] Lowest Common Ancestor of a Binary Search Tree
+- [x] Symmetric Tree
 
-Total Solved: 22
+Total Solved: 23
 

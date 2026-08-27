@@ -31,6 +31,7 @@ Solve 100+ DSA Problems
 - [x] Search Insert Position
 - [x] Fibonacci Number
 - [x] Climbing Stairs
+- [x] Subsets
 
-Total Solved: 27
+Total Solved: 28
 

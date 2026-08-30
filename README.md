@@ -35,6 +35,7 @@ Solve 100+ DSA Problems
 - [x] Combination Sum
 - [x] Maximum Product Subarray
 - [x] Group Anagrams
+- [x] Top K Frequent Elements
 
-Total Solved: 31
+Total Solved: 32
 

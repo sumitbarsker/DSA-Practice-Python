@@ -34,6 +34,7 @@ Solve 100+ DSA Problems
 - [x] Subsets
 - [x] Combination Sum
 - [x] Maximum Product Subarray
+- [x] Group Anagrams
 
-Total Solved: 30
+Total Solved: 31
 

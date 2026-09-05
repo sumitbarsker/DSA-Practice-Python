@@ -37,6 +37,7 @@ Solve 100+ DSA Problems
 - [x] Group Anagrams
 - [x] Top K Frequent Elements
 - [x] Longest Consecutive Sequence
+- [x] Happy Number
 
-Total Solved: 33
+Total Solved: 34
 

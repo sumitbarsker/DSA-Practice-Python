@@ -38,6 +38,7 @@ Solve 100+ DSA Problems
 - [x] Top K Frequent Elements
 - [x] Longest Consecutive Sequence
 - [x] Happy Number
+- [x] Isomorphic Strings
 
-Total Solved: 34
+Total Solved: 35
 

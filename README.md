@@ -39,6 +39,7 @@ Solve 100+ DSA Problems
 - [x] Longest Consecutive Sequence
 - [x] Happy Number
 - [x] Isomorphic Strings
+- [x] Word Pattern
 
-Total Solved: 35
+Total Solved: 36
 

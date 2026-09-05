@@ -40,6 +40,7 @@ Solve 100+ DSA Problems
 - [x] Happy Number
 - [x] Isomorphic Strings
 - [x] Word Pattern
+- [x] Intersection of Two Arrays
 
-Total Solved: 36
+Total Solved: 37
 

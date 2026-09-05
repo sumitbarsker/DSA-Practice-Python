@@ -41,6 +41,7 @@ Solve 100+ DSA Problems
 - [x] Isomorphic Strings
 - [x] Word Pattern
 - [x] Intersection of Two Arrays
+- [x] Two Sum II: Input Array Is Sorted
 
-Total Solved: 37
+Total Solved: 38
 

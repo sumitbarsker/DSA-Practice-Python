@@ -36,6 +36,7 @@ Solve 100+ DSA Problems
 - [x] Maximum Product Subarray
 - [x] Group Anagrams
 - [x] Top K Frequent Elements
+- [x] Longest Consecutive Sequence
 
-Total Solved: 32
+Total Solved: 33
 

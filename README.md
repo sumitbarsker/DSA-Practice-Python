@@ -42,6 +42,7 @@ Solve 100+ DSA Problems
 - [x] Word Pattern
 - [x] Intersection of Two Arrays
 - [x] Two Sum II: Input Array Is Sorted
+- [x] 3Sum
 
-Total Solved: 38
+Total Solved: 39
 

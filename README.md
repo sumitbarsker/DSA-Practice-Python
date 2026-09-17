@@ -43,6 +43,7 @@ Solve 100+ DSA Problems
 - [x] Intersection of Two Arrays
 - [x] Two Sum II: Input Array Is Sorted
 - [x] 3Sum
+- [x] Best Time to Buy and Sell Stock II
 
-Total Solved: 39
+Total Solved: 40
 

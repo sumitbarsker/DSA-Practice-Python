@@ -47,6 +47,7 @@ Solve 100+ DSA Problems
 - [x] Longest Substring Without Repeating Characters
 - [x] Minimum Size Subarray Sum
 - [x] Permutation in String
+- [x] Find All Anagrams in a String
 
 Total Solved: 44
 

@@ -46,6 +46,7 @@ Solve 100+ DSA Problems
 - [x] Best Time to Buy and Sell Stock II
 - [x] Longest Substring Without Repeating Characters
 - [x] Minimum Size Subarray Sum
+- [x] Permutation in String
 
-Total Solved: 42
+Total Solved: 44
 

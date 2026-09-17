@@ -44,6 +44,7 @@ Solve 100+ DSA Problems
 - [x] Two Sum II: Input Array Is Sorted
 - [x] 3Sum
 - [x] Best Time to Buy and Sell Stock II
+- [x] Longest Substring Without Repeating Characters
 
-Total Solved: 40
+Total Solved: 41
 

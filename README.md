@@ -48,6 +48,7 @@ Solve 100+ DSA Problems
 - [x] Minimum Size Subarray Sum
 - [x] Permutation in String
 - [x] Find All Anagrams in a String
+- [x] Longest Repeating Character Replacement
 
-Total Solved: 44
+Total Solved: 45
 

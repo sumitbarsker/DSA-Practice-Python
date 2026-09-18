@@ -49,6 +49,6 @@ Solve 100+ DSA Problems
 - [x] Permutation in String
 - [x] Find All Anagrams in a String
 - [x] Longest Repeating Character Replacement
+- [x] Longest Subarray of 1's After Deleting One Element
 
-Total Solved: 45
-
+Total Solved: 46

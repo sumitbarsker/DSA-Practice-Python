@@ -50,5 +50,6 @@ Solve 100+ DSA Problems
 - [x] Find All Anagrams in a String
 - [x] Longest Repeating Character Replacement
 - [x] Longest Subarray of 1's After Deleting One Element
+- [x] Minimum Window Substring
 
-Total Solved: 46
+Total Solved: 47

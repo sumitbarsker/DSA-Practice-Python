@@ -52,5 +52,6 @@ Solve 100+ DSA Problems
 - [x] Longest Subarray of 1's After Deleting One Element
 - [x] Minimum Window Substring
 - [x] Maximum Average Subarray I
+- [x] Defuse the Bomb
 
-Total Solved: 48
+Total Solved: 49

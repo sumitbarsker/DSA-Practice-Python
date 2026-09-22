@@ -53,5 +53,6 @@ Solve 100+ DSA Problems
 - [x] Minimum Window Substring
 - [x] Maximum Average Subarray I
 - [x] Defuse the Bomb
+- [x] Maximum Number of Vowels in a Substring of Given Length
 
-Total Solved: 49
+Total Solved: 50

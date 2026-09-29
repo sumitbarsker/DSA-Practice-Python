@@ -55,5 +55,6 @@ Solve 100+ DSA Problems
 - [x] Defuse the Bomb
 - [x] Maximum Number of Vowels in a Substring of Given Length
 - [x] Daily Temperatures
+- [x] Next Greater Element I
 
-Total Solved: 51
+Total Solved: 52

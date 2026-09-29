@@ -54,5 +54,6 @@ Solve 100+ DSA Problems
 - [x] Maximum Average Subarray I
 - [x] Defuse the Bomb
 - [x] Maximum Number of Vowels in a Substring of Given Length
+- [x] Daily Temperatures
 
-Total Solved: 50
+Total Solved: 51

@@ -56,5 +56,8 @@ Solve 100+ DSA Problems
 - [x] Maximum Number of Vowels in a Substring of Given Length
 - [x] Daily Temperatures
 - [x] Next Greater Element I
+- [x] Largest Rectangle in Histogram
+
+Total Solved: 53
 
 Total Solved: 52

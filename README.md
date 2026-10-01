@@ -59,5 +59,3 @@ Solve 100+ DSA Problems
 - [x] Largest Rectangle in Histogram
 
 Total Solved: 53
-
-Total Solved: 52

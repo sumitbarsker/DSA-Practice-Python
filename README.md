@@ -57,5 +57,7 @@ Solve 100+ DSA Problems
 - [x] Daily Temperatures
 - [x] Next Greater Element I
 - [x] Largest Rectangle in Histogram
+- [x] Remove K Digits
 
-Total Solved: 53
+Total Solved: 54
+
